@@ -1,0 +1,79 @@
+.navContainer {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    width: 100%;
+}
+
+.buttonWrapper {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-end;
+    width: 100%;
+    margin-top: 2rem;
+}
+
+.navButton {
+    margin-left: 2rem;
+}
+
+.navButton:hover {
+    cursor: pointer;
+    color: #0070f3;
+}
+
+/* Navbar Modal Forms */
+
+.section {
+    width: 25rem;
+    height: 20rem;
+    margin-top: 3rem;
+}
+
+.form {
+    width: 70%;
+    margin: 0 auto;
+}
+
+.formGroup {
+    margin-bottom: 10px;
+}
+
+.formGroup input,
+.formGroup textarea,
+.formGroup select {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #e6e6e6;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    font-family: inherit;
+}
+
+.formGroup label {
+    text-align: left;
+    display: block;
+    margin: 0 0 5px 3px;
+}
+
+.btn {
+    padding: 10px 20px;
+    border: 1px solid #000;
+    border-radius: 5px;
+    background: #000;
+    color: #fff;
+    font-size: 1rem;
+    font-weight: 700;
+    cursor: pointer;
+    text-align: center;
+    appearance: button;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: solid #777 1px;
+    margin: 0 auto;
+
+}
+
