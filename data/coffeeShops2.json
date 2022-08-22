@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "shopName": "Black Roast Coffee",
+    "thumbnail": "/../public/mockLogo.svg"
+  },
+  {
+    "id": 2,
+    "shopName": "White Roast Coffee",
+    "thumbnail": "/../public/mockLogo.svg"
+  },
+  {
+    "id": 3,
+    "shopName": "Green Roast Coffee",
+    "thumbnail": "/../public/mockLogo.svg"
+  },
+  {
+    "id": 4,
+    "shopName": "Blue Roast Coffee",
+    "thumbnail": "/../public/mockLogo.svg"
+  },
+  {
+    "id": 5,
+    "shopName": "Red Roast Coffee",
+    "thumbnail": "/../public/mockLogo.svg"
+  },
+  {
+    "id": 6,
+    "shopName": "Brown Roast Coffee",
+    "thumbnail": "/../public/mockLogo.svg"
+  }
+]
