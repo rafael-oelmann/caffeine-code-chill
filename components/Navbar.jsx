@@ -1,5 +1,5 @@
 import styles from '../styles/Navbar.module.css'
-import Image from 'Next/image'
+import Image from 'next/image'
 import Modal from "react-modal";
 import { useState } from "react";
 

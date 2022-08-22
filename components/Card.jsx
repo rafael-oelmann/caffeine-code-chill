@@ -1,4 +1,4 @@
-import Image from 'Next/image'
+import Image from 'next/image'
 import styles from '../styles/Card.module.css'
 
 function Card(shop) {
